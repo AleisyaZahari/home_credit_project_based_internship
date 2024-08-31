@@ -1,6 +1,6 @@
 # home_credit_project_based_internship
 
-Aleisya Zahari Salam [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://linkedin.com/in/aleisyazaharisalam)&nbsp
+Aleisya Zahari Salam [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/aleisyazaharisalam)
 
 **Tool**
 
@@ -10,7 +10,7 @@ Aleisya Zahari Salam [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<!-- ## 🏦 Bussines Understanding  -->
+## 🏦 Bussines Understanding
 
 ### 🏢 Company Background
 <p style='text-align: justify'>Home Credit, a leading global financial institution, has been leveraging advanced statistical methods and machine learning techniques to enhance its credit scoring capabilities. The company is committed to optimizing its data to ensure that creditworthy customers are not unfairly rejected during the loan application process. By refining its predictive models, Home Credit aims to offer loans with tailored terms—such as principal, maturity, and repayment schedules—that not only meet the financial needs of customers but also encourage successful repayment. This strategic approach underscores Home Credit's dedication to fostering financial inclusion and customer success.</p>
