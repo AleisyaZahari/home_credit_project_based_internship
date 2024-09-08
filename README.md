@@ -1,6 +1,8 @@
 # home_credit_project_based_internship
 
-Aleisya Zahari Salam [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/aleisyazaharisalam)
+Aleisya Zahari Salam 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/aleisyazaharisalam)
 
 **Tool**
 
@@ -10,25 +12,42 @@ Aleisya Zahari Salam [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?s
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+# Table of Contents
+1. [🏦 Bussines Understanding](##🏦-Bussines-Understanding)
+    - [Company Background](#🏢-company-background)
+   - [Problem Statement](#⚙️-problem-statement)
+   - [Goals](#🎯-goals)
+   - [Objective](#📌-objective)
+   - [Business Metrics](#✏️-business-metrics)
+
+
 ## 🏦 Bussines Understanding
 
 ### 🏢 Company Background
-<p style='text-align: justify'>Home Credit, a leading global financial institution, has been leveraging advanced statistical methods and machine learning techniques to enhance its credit scoring capabilities. The company is committed to optimizing its data to ensure that creditworthy customers are not unfairly rejected during the loan application process. By refining its predictive models, Home Credit aims to offer loans with tailored terms—such as principal, maturity, and repayment schedules—that not only meet the financial needs of customers but also encourage successful repayment. This strategic approach underscores Home Credit's dedication to fostering financial inclusion and customer success.</p>
+<p style='text-align: justify'>Home Credit saat ini sedang menggunakan berbagai macam metode statistik dan Machine Learning untuk membuat prediksi skor kredit. Dengan melakukannya, kita dapat memastikan pelanggan yang mampu melakukan pelunasan tidak ditolak ketika melakukan pengajuan pinjaman, dan pinjaman datap diberikan dengan principal, maturity, dan repayment calendar yang akan memotivsi pelanggan untuk sukses.</p>
 
 
 ### ⚙️ Problem Statement 
-<p style='text-align: justify'>Home Credit faces the challenge of accurately predicting creditworthiness to ensure that deserving customers are approved for loans while minimizing the risk of defaults. The current models may lead to the rejection of creditworthy customers or the approval of high-risk applicants, affecting both customer satisfaction and the company's financial stability.</p>
+<p style='text-align: justify'><b>8.1% customer memiliki history payment yang buruk</b>. Ini dapat mengakibatkan dampak yang buruk pada perusahaan seperti revenue dan profit yang menurun.
+Untuk itu perlu dilakukan analisis khusus untuk dapat mengidentifikasi kostumer yang berpotensi bermasalah dalam pembayaran..</p>
 
 
 ### 🎯 Goals
-<p style='text-align: justify'>The objective is to <b>enhance Home Credit's predictive models by leveraging advanced data analytics and machine learning techniques</b>. This will involve refining the accuracy of credit scoring models to ensure that loans are provided to customers who are most likely to repay, while also offering loan terms that align with the customer's financial situation and motivation to succeed.</p>
+<p style='text-align: justify'>Mengurangi jumlah customer dengan potensi payment yang buruk </p>
 
 ### 📌 Objective
-* 
-
+* Melakukan analisis mendalam dan eksplorasi data (EDA) untuk memahami pola pembayaran customer.
+* Membangun model Machine Learning yang efektif untuk mengidentifikasi customer dengan potensi riwayat pembayaran buruk.
+* Mengidentifikasi karakteristik customer yang menunjukkan tanda-tanda risiko pembayaran
+* interpret model, find insight based on the model
 
 ### ✏️ Business Metrics
-
-
+* Bad Payment Rate
 
 ## Data Description 🗄️ 
+|aaa | aaa | cc |
+|--- |-----|----|
+|xxm |sssss|ssss|
+|xxm |sssss|ssss|
+|xxm |sssss|ssss|
+|xxm |sssss|ssss|
